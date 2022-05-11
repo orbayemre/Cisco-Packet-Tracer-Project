@@ -1,2 +1,2 @@
 # Cisco Packet Tracer Project
- Bu proje Bilgisayar Ağları dersim için yaptığım simülasyon projesidir.
+ Bu proje 2.sınıftaki seçmeli dersim olan Bilgisayar Ağlarında yaptığım simülasyon projesidir.
